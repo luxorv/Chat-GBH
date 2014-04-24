@@ -24,11 +24,11 @@
 
     python server.py debug
 
-  To run the Python client
+  To run the Python client:
 
     python client.py ws://127.0.0.1:9000
 
-  To activate debug output on the client
+  To activate debug output on the client:
 
     python client.py ws://127.0.0.1:9000 debug
 
