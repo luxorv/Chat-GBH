@@ -20,12 +20,6 @@
 
     python server.py
 
-  and open
-
-    client.html
-
-  in your browser.
-
   To activate debug output on the server:
 
     python server.py debug
